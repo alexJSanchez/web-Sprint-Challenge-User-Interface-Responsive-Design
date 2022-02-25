@@ -61,6 +61,8 @@ html {
 body {
     font-family: 'Roboto', sans-serif;
     line-height: 1.5;
+    text-align:center;
+    color:rgb(225, 239, 230);
 }
 
 h1, h2, h3, h4, h5, h6, p, a, i {
@@ -91,6 +93,7 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    position:static;
 }
 
 /* spacers */
